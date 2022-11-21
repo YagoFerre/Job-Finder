@@ -4,8 +4,8 @@
 
 ![jobfinder](https://user-images.githubusercontent.com/103700322/203062147-1eaca9d9-2724-4d28-8909-9f494f7e134f.png)
 
-> ## Neste projeto fiz um site para cadastro de vagas de emprego, utilizei o SQLite para banco de dados e o *Handlebars* para carregar a página, utilizei o *Postman* para tratar os dados que vem do Banco de Dados, utilizei os métodos HTTP para realizar uma aplicação completa.
+> ### Neste projeto fiz um site para cadastro de vagas de emprego, utilizei o SQLite para banco de dados e o *Handlebars* para carregar a página, utilizei o *Postman* para tratar os dados que vem do Banco de Dados, utilizei os métodos HTTP para realizar uma aplicação completa.
 
 ![jobfinder2](https://user-images.githubusercontent.com/103700322/203062875-466eb6bc-1586-4448-8d8a-206e905f921d.png)
 
-> ## Você pode ir direto ao site clicando **[AQUI](https://yagoferre.github.io/Job-Finder/)**.
+> ### Você pode ir direto ao site clicando **[AQUI](https://yagoferre.github.io/Job-Finder/)**.
